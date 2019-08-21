@@ -21,6 +21,18 @@ restaurants_attributes = [
     address:      'Ipanema',
     category:     'japanese',
     phone_number: '0432985321'
+  },
+  {
+    name:         'Croissants & Coffee',
+    address:      'Collingwood',
+    category:     'french',
+    phone_number: '0429529395'
+  },
+  {
+    name:         'Belgian Waffles',
+    address:      'Melbourne',
+    category:     'belgian',
+    phone_number: '0439295923'
   }
 ]
 Restaurant.create!(restaurants_attributes)
