@@ -1,1 +1,17 @@
 @import "bootstrap/scss/bootstrap";
+
+.container {
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+}
+
+li p {
+  margin-bottom: 0;
+}
+
+tr td a{
+  margin-right: 10px;
+}
